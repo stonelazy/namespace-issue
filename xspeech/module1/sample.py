@@ -1,0 +1,1 @@
+from xspeech.audio import sample
